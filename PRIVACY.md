@@ -5,7 +5,7 @@ permalink: /privacy
 
 # Birthday Freebie Concierge privacy policy
 
-Effective October 17, 2026
+Effective October 18, 2026
 
 Lancaster Agile Systems LLC operates Birthday Freebie Concierge ("the app"). In this policy,
 "we" and "us" mean Lancaster Agile Systems LLC. This policy explains what the app keeps, where it
@@ -13,11 +13,10 @@ keeps it, and what you control.
 
 ## The short version
 
-- The app keeps your information on your iPhone.
-- Signing in with Apple is optional. If you sign in, the app syncs your plan to our server.
+- The app keeps your information on your iPhone. It has no accounts and no server of ours.
 - We never ask for your merchant passwords, and we never access your email.
 - We don't show ads, we don't track you, and we don't sell your data.
-- You can delete your account and all synced data from Settings in the app.
+- You can delete everything the app stores from Settings in the app.
 
 ## What the app keeps on your device
 
@@ -29,9 +28,9 @@ The app stores the following on your iPhone:
 - Your plan: the offers you track, their status and deadlines, and any redemption code a
   merchant gave you.
 - Reminders you create. The app schedules them as notifications on your iPhone.
-- Problem reports you write in the app, and offers you hide.
+- Problem reports and notes you write in the app, and offers you hide.
 
-If you don't sign in, none of this leaves your iPhone.
+None of this leaves your iPhone. We don't receive it, and nobody else does either.
 
 ## Location
 
@@ -42,27 +41,13 @@ policy covers that lookup. The app keeps the ZIP code and discards the location.
 
 You can type a ZIP code instead and never grant location access.
 
-## Sign in with Apple (optional)
-
-If you sign in with Apple, our server receives the following:
-
-- **A user ID from Apple.** Apple creates a random identifier for each app. It isn't your name
-  or your email address.
-- **Your email address, if Apple includes it.** Our server discards it and doesn't store it.
-- **A sign-in token from Apple.** We store it encrypted and use it only to tell Apple to end the
-  app's sign-in connection when you delete your account.
-
-We use your Apple user ID only to sync your plan to our server. When you're signed in, the app
-can sync the information listed in [What the app keeps on your device](#what-the-app-keeps-on-your-device).
-
-Our server is a cloud server we operate. Network traffic to it passes through Cloudflare.
-
 ## Problem reports
 
-Problem reports you write in the app stay on your iPhone unless you sign in. If you sign in,
-they sync to our server, and we use them to correct offer listings.
+Problem reports and notes you write in the app stay on your iPhone. They mark the offer for you,
+and the app doesn't send them to us or to any merchant.
 
-If you report a problem on GitHub, your report is public, and
+To tell us about a wrong offer, use the support page. If you report a problem on GitHub, your
+report is public, and
 [GitHub's Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement)
 covers it. Don't include personal details in a GitHub issue.
 
@@ -80,16 +65,9 @@ merchant.
 
 ## Delete your data
 
-In the app, open **Settings** and tap **Delete my account**. This deletes the app's data from
-your iPhone. If you signed in, it also deletes your account and all synced data from our server,
-and it asks Apple to end the app's sign-in connection.
-
-Two things remain after you delete your account:
-
-- If one of your reports showed that an offer listing was wrong, we keep a note that the listing
-  needs review. The note holds only the type of problem, such as "broken link". It doesn't hold
-  your words, and nothing links it to you.
-- Deleted data can remain in our server backups until those backups are replaced.
+In the app, open **Settings** and tap **Delete my data**. This deletes everything the app stored
+on your iPhone. Deleting the app does the same. It doesn't close the loyalty accounts you created
+with each merchant.
 
 ## Children
 
@@ -97,8 +75,9 @@ The app isn't directed to children under 13, and we don't knowingly collect data
 
 ## Changes to this policy
 
-If this policy changes, we update this page and the effective date at the top. The full history
-of this page is public:
+If the app ever adds sign-in or sends your information anywhere, we update this policy first.
+When this policy changes, we update this page and the effective date at the top. The full
+history of this page is public:
 
 https://github.com/milxliv/birthday-freebie-support/commits/main/PRIVACY.md
 
